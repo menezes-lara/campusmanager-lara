@@ -1,5 +1,5 @@
 function saudacao() {
-console.log("olá") 
+console.log("olá"); 
 }
 
 
