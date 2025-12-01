@@ -1,6 +1,5 @@
-function saudacao() {
-console.log("olá"); 
+function saudacao(nome) {
+  console.log("Olá " + nome);
 }
 
-
-saudacao()
+saudacao("Lara");
